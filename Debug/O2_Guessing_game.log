@@ -1,0 +1,4 @@
+﻿  O2_Guessing_game.cpp
+C:\Users\ugo\Desktop\CPP ++\My C++ Projects\O2_Guessing_game\O2_Guessing_game.cpp(46,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ugo\Desktop\CPP ++\My C++ Projects\O2_Guessing_game\O2_Guessing_game.cpp(100,12): warning C4102: 'std': unreferenced label
+  O2_Guessing_game.vcxproj -> C:\Users\ugo\Desktop\CPP ++\My C++ Projects\O2_Guessing_game\Debug\O2_Guessing_game.exe
